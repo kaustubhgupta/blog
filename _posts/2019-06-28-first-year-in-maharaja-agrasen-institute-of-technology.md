@@ -6,6 +6,7 @@ categories: [ college, experience, review]
 image: assets/thumbnails/college.png
 comments: true
 ---
+
 Hello peeps! I think college life is the most alluring part of one’s life and distinctively 1st year. The first year of college always has a unique memory in everyone’s life and as I just concluded with my first year in MAIT (Maharaja Agrasen Institute of Technology), I thought why not share my understanding of how college life is completely a new dimension.
 
 MAIT, the second-best college of IP University after university, is a complete package of academics, sports, cultural activities, & much more. A major drawback of this college is its location. It’s completely isolated from central Delhi but its proximity to Rithala metro station is the only lifesaving component. 
