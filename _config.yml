@@ -5,9 +5,9 @@ baseurl: "/blog"
 permalink: ":year/:month/:day/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Sal
+author: kaustubh
 paginate: 30
-disqus: 'demowebsite'
+disqus: 'kaustubhgupta'
 locale: en_us
 lang: en_us
 feed_items: 10
@@ -20,32 +20,24 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-ganalytics: UA-113961478-1
+ganalytics: G-WKWMZE48XH
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    avatar: 'assets/images/sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John
-    avatar: 'assets/images/john.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
+  kaustubh:
+    name: Kaustubh Gupta
+    display_name: kaustubhGupta
+    avatar: 'assets/images/profile_pic.jpg'
+    email: kaustubhgupta1828@gmail.com
+    web: https://www.kaustubhgupta.me
+    twitter: https://twitter.com/Kaustubh1828
+    description: "That Data Guy, Habitual Writer and Tech Enuthusist"
 
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+  twitter: https://twitter.com/Kaustubh1828
+  github: https://github.com/kaustubhgupta
+  linkedin: https://www.linkedin.com/in/kaustubh-gupta
   medium: https://medium.com/@kaustubhgupta1828
 
 # Plugins
