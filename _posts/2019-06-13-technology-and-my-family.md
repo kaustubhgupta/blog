@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Technology and My Family"
+author: kaustubh
+categories: [ experience, family ]
+image: assets/thumbnails/family.png
+comments: true
+---
+
+There was a time when the whole family would gather around the television and wait for their favorite serial telecast. Also, Indian mothers are so much obsessed with these dramas that they have rescheduled their entire daily chores according to these serials. All eating habits revolve around these timings like talking about my family, breakfast is served at 9 o'clock when news channel flashes news around the world, lunch when my mom watches her favorite daily soap, and same for dinner. But this system didn’t last for long. That’s when I realized that we always talk about the bad effects of tech but in my case, the tech positive side was heavier and was way much astonishing.
+
+When I was in 8th class, my dad told me that he wants an Android Smartphone as he was using a simple handset. As soon as my father started using his new Android Smartphone, he wanted to learn all about it. We taught him how to make a phone call to taking pictures, browsing the internet, what are trusted websites and how to detect fake one, how to avoid ads on websites, and many more things like which apps are good for his phone. My elder sisters and I were already aware of these things as we got internet access at a very stage like when I was in 4th class, I had internet access. Every time a new update comes it excited him as at that time updates do bring a lot of noticeable features like an upgrade of Android KitKat to Lollipop was one of the major GUI changes. When he was surfing Flipkart, he encountered an ad for a SmartTV and asked me if it was good or not. I being more curious approved one of the Samsung SmartTV which brought about a tech revolution in my house.
+
+Our WiFi speed got upgraded as the TV required a good internet connection and we all were so happy. The SmartTV came with a lot of features like built-in YouTube, Facebook, Amazon Video (now Amazon Prime), the ability to insert a USB, HDMI. These features were so much exciting at that time as upgrading from a CRT TV to SmartTV was a major change. Seeing all these, my Mom told us that she also wants an Android Smartphone. Now as she is a homemaker who has never used the internet, initially it was difficult for her to understand but slowly she was used to it. She is very spiritual in nature and she usually watches spiritual programs. One day, it was raining heavily and cable service was down. It was 19:00 hr and it was time for some program on MH1 Sharadha. As cable service was down, she herself searched YouTube for a live channel and interestingly she found one! Then she cast that YouTube video on SmartTV! There was no one around her. She did all this on her own as I once taught her how to cast videos.
+
+At that moment, I felt very much proud. Once she was fluent with this casting thing, she, most of the time watches her program through YouTube itself as she found that much of the spiritual content was available on YouTube. The best incident and last for this article was that when my dad brought another SmartTV for another room which was Android TV. Now he himself suggested that why not install the JioTV app on it! This decision saved us a lot of money as now we didn’t require cable service or dish TV which cost 450/month. And the best of all decisions came out from my mom's head that why not use a wireless mouse with this TV for a better experience! This thing shocked me.
+
+The present scenario is that my Dad does all his transactions online, gets all the news from TOI and Dainik Bhaskar app. Recently, he canceled the newspaper subscription as we hardly read them. My Mom changes her DP herself from time to time and changes WhatsApp status daily. She watches her serials on Voot, Hotstar, Zee5, and SonyLive. Sometimes she sends me tech updates that I miss.
+
+So that was all about my techy family who has transformed from being dependent on TV to WiFi. What are your thoughts about this? Tell me in the comments section and what happens in your family. Share your experiences in the comments section
