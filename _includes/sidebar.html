@@ -1,6 +1,10 @@
 <div class="sidebar sticky-top">
     <div class="sidebar-section">
-        <h5><span>Your Ad Here</span></h5>
-        <img src="{{site.baseurl}}/assets/images/ad.png">
+        <h5><span>Last Posts</span></h5>
+        {% for post in site.posts %}
+        <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+        {% endfor %}
     </div>
 </div>
