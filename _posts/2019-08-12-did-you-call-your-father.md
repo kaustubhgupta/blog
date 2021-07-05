@@ -3,7 +3,7 @@ layout: post
 title:  "Did You Call Your Father?"
 author: kaustubh
 categories: [ experience, poetry, father]
-image: assets/thumbnails/father.png
+image: assets/thumbnails/father.PNG
 comments: true
 ---
 
