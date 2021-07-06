@@ -37,7 +37,7 @@ We shot some more clips in an empty room as there was so much noise in the previ
 
 Now came the video editing part and Mohit paid his asses off to prepare the last stage as fast as possible. Two sleepless nights and still attending college shows his dedication towards his work. And finally, D-day came when he released the video. He getting pretty good response on this and aims to release more of this content in future also. Checkout his video here:
 
-[![Coldplay Tribute Feat. GyanKunj | Mohit Jha | Kaustubh Gupta](https://res.cloudinary.com/marcomontalbano/image/upload/v1625556959/video_to_markdown/images/youtube--kFOSSRHckL8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=kFOSSRHckL8 "Coldplay Tribute Feat. GyanKunj | Mohit Jha | Kaustubh Gupta")
+https://www.youtube.com/watch?v=kFOSSRHckL8
 
 So, that was all about how a creator creates content for there audience. Now talking about GyanKunj NGO, GyanKunj is a non-profit initiative started by Aman Raja, an alumnus of Delhi College of Engineering, and his team of engineering batch-mates, with the main objective to effect change by reducing the school dropout rates in the targeted communities and equipping the children with the soft skills required for the modern world. GyanKunj’s prime objective is to bridge the gap in the academic opportunities provided to children from well off families and the cavity in the education of students from low income groups families, i.e. academic exposure to digital devices, utility of the internet, institutional grooming in verbal and written skills. 
 
