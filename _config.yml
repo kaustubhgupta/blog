@@ -6,7 +6,7 @@ permalink: ":year/:month/:day/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: kaustubh
-paginate: 30
+paginate: 10
 disqus: 'https-www-kaustubhgupta-me-blog'
 locale: en_us
 lang: en_us
