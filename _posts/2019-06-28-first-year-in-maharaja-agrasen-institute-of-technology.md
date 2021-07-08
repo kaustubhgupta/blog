@@ -11,13 +11,13 @@ Hello peeps! I think college life is the most alluring part of one’s life and 
 
 MAIT, the second-best college of IP University after university, is a complete package of academics, sports, cultural activities, & much more. A major drawback of this college is its location. It’s completely isolated from central Delhi but its proximity to Rithala metro station is the only lifesaving component. 
 
-![image](/blog/assets/postImages/college-view.png) 
+![image](/assets/postImages/college-view.png) 
 
 1st August 2018 was the time when our first year started and almost everybody was excited about their college, making new friends, hanging out in the city and just chilling out without any stipulation but it's not what you always think! As soon as I entered college, I noticed that everyone is so much confusion! 
 
 The first person I met in college was Ankit Bansal and the only discussion we had was how we miserably failed in JEE and got in here! Coming to teachers, it would be wrong from my side to Judge anyone but the coolest personality in the college is Professor SK Jha. He is a lifesaver for most of the students!
 
-![image](/blog/assets/postImages/classroom.png)
+![image](/assets/postImages/classroom.png)
 
 
 MAIT has got a great line-up of Ph.D. scholars. You will find some teachers very friendly and supportive but contrarily stubborn also. You will be burdened with a lot of assignments, practical files, society work but that’s where your management skills are tested. 
