@@ -68,6 +68,8 @@ Now let me share some of the stats about the project I mentored, Amazing Python 
 
 In the end, I would like to thank all the members of the Girl Script Foundation for starting such a good initiative. These programs surely help beginners to get started. It also helps mentors on how to handle quires from the participants, be calm in these situations, and provide feedback to the participants so that they can improve upon their skills.
 
+![image](https://user-images.githubusercontent.com/43691873/125189605-7ac92700-e256-11eb-8a6f-2652bd2dd654.png)
+
 With this, we come to the end of this article. Make sure to give your responses in the poll below and comment down below on how was your experience with GSSOC!
 
 Thanks
