@@ -11,7 +11,7 @@ background: '/img/bg-index.jpg'
   <div class="row align-items-center justify-content-between">
     <div class="col-md-6">
       <h2 class="font-weight-bold mb-4 serif-font">Facts, Opinions, Experiences, & Technology Explained</h1>
-      <p class="lead mb-4">My name is Kaustubh and I'm here to share with you the knowledge and experience I gained over the years.</p>
+      <p class="lead mb-4">My name is Kaustubh Gupta and I'm here to share with you the knowledge and experience I have gained over the years</p>
       <a href="{{site.baseurl}}/about" class="btn btn-dark text-white px-5 btn-lg">About me</a>
     </div>
     <div class="col-md-6 text-right pl-0 pl-lg-4">
@@ -21,20 +21,7 @@ background: '/img/bg-index.jpg'
 </div>
 {% endif %}
 
-<!-- Featured
-================================================== -->
-<section class="row">
-  {% for post in site.posts %}
-  {% if post.featured == true %}
-  <div class="col-md-4 mb-5">
-    {% include postbox.html %}
-  </div>
-  {% endif %}
-  {% endfor %}
-  </div>
-</section>
-
-<!-- Posts List with Sidebar (except featured)
+<!-- Posts List with Sidebar
 ================================================== -->
 <section class="row">
   <div class="col-sm-8">
