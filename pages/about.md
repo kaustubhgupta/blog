@@ -11,7 +11,6 @@ I am currently mastering Data Analytics and hope to get an FTE in 2022 after my 
 
 In my free time, I do video editing and writing both technical and nontechnical articles. I have written over 140+ articles for companies as a freelancer, blogs for my website, and medium blogs for publications. I usually listen to music while working. 
 
-Do check out my projects on GitHub and if they are good enough, support me by starring them😃
+Do check out my projects on GitHub and if they are good enough, support me by starring and sharing them😃
 
 Thanks!
-
