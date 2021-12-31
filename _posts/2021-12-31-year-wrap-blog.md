@@ -8,7 +8,9 @@ comments: false
 ---
 The Year Wrap Blog
 
-image
+![image](https://user-images.githubusercontent.com/43691873/147827965-87d5f922-0899-41f5-aa41-aa6f6cc684be.png)
+
+Photo by [Daria Shevtsova](https://unsplash.com/@daria_shevtsova?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)
 
 The year 2021 has been the most hopeful and mixed year of all time. From surviving another deadly coronavirus wave in India, losing a relative, welcoming a newborn in the family, getting exciting opportunities, and living a healthy lifestyle, it was a total rollercoaster ride.
 
@@ -24,7 +26,7 @@ Twitter became the main source of such information. The tech community-developed
 
 From the beginning, I was not concerned about what I consumed. I would eat anything that I find tasty. I never hesitated to spend money on expensive food. This taste of tongue resulted in me being an unhealthy person. Earlier, I used to say that I don't care about being a foodie but this year I realized that it's all about how you take care of yourself. I had this self-realization in March'21 and at that time my weight was a few kgs less than a 1 quintal! I hit the gym and after that, there was no turning back. I ran, ran, and did a lot of workouts.
 
-image
+![image](https://user-images.githubusercontent.com/43691873/147828045-56c0ba64-7d9f-46c1-aa6b-8e5b068b1eed.png)
 
 Yes, there were a few moments where I felt that this is all useless and I could spend this time in something else but the result is what matters the most. Cut short to present, now, I could fit in my old clothes. The body is slowly getting into shape. I have not completely left fast food but the frequency is reduced way to less. Now I am more conscious of what I consume and I don't want to return to the older version of myself.
 
@@ -42,32 +44,32 @@ The first internship I did was a "Machine Learning Writer Internship" in the May
 
 My current internship at Prodigal Technologies is something special. I applied through Cuvette, a startup that helps in getting legitimate and good internships. I randomly applied via Cuvette and I was selected for interviews. I had to go through 4 rounds of interviews. These 4 interviews were the best 4 interviews of 2021! The interviewers, now part of the team :), were way too understanding and I had the best time explaining my projects and experiences. Presently, I am very much happy with the working environment. My work here is also very interesting and I have learned a bunch of new things. From new tech stacks such as MongoDB to management and communication skills, this internship experience will require a separate article! This internship also sent an awesome Diwali gift!
 
-image
+![image](https://user-images.githubusercontent.com/43691873/147828063-2a9712f4-f80c-4320-9d77-90d12e985a24.png)
 
 ## Gadgets Upgraded
 
 I did a lot of freelancing work in 2020 and therefore, received enough capital to invest in my tech gear. I upgraded to a premium smartphone and bought a new smart tv with 50% investment from my side. I also got an unexpected gift from Analytics Vidhya, where I was the winner of a random lucky draw for one of the blogathon editions and got myself a brand new iPad 8th gen 2020!
 
-image
+![image](https://user-images.githubusercontent.com/43691873/147828074-6caff0ca-1fd0-4caf-ab06-2eaa8ba04082.png)
 
 ## Appreciation from Community
 
 This year, I got a lot (a lot!) of messages on LinkedIn, Twitter, and Gmail about how my articles have helped them to complete their projects. How the articles gave them new ideas or how they used them as a resource for their master's degree! I was touched reading all those messages.
 
-image
+![image](https://user-images.githubusercontent.com/43691873/147828094-fb4828a8-b814-4917-ba52-6ecda079b1f5.png)
 
 This year I was recognized as one of the top 10 authors on Analytics Vidhya among 500+ authors! I was amazed by how the community is reading and using my articles as resources!
 
-image
+![image](https://user-images.githubusercontent.com/43691873/147828104-9401e42b-6931-4a28-b1f2-bcc20f38aa29.png)
 
 ## Meeting Friends and Family Trips
 In 2020, everybody was at home. I also came home in March 2020 and after that, I never stepped out of my state. 2021 1st quarter was a bit light for covid spread and therefore, I went on a family vacation to Vaishno Devi. Then, 2nd wave was at its peak and after that was flattened, I went on another trip with the family to Vrindavan. In the past 2 months, the curve was a bit flat and that's when I decided to meet my Delhi friends after 1.8 years! It was a great experience, traveling after so long time!
 
-image
+![image](https://user-images.githubusercontent.com/43691873/147828128-8e98948b-2413-4982-985c-441b7287ec6d.png)
 
 Now, at the year-end, and around my birthday, we again decided to go on a trip and we went for 4 days road trip to Dharamshala (HP) and Amritsar (Punjab)! This was a next-level experience and I fully enjoyed this last trip of 2021!
 
-image
+![image](https://user-images.githubusercontent.com/43691873/147828134-e52b8cff-b15c-44fc-91c2-d60540095e67.png)
 
 ## EndNotes
 
