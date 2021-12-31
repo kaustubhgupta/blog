@@ -8,9 +8,7 @@ comments: false
 ---
 The Year Wrap Blog
 
-![image](https://user-images.githubusercontent.com/43691873/147827965-87d5f922-0899-41f5-aa41-aa6f6cc684be.png)
-
-Photo by [Daria Shevtsova](https://unsplash.com/@daria_shevtsova?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)
+_Thumbnail Photo by [Daria Shevtsova](https://unsplash.com/@daria_shevtsova?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)_
 
 The year 2021 has been the most hopeful and mixed year of all time. From surviving another deadly coronavirus wave in India, losing a relative, welcoming a newborn in the family, getting exciting opportunities, and living a healthy lifestyle, it was a total rollercoaster ride.
 
