@@ -1,10 +1,10 @@
 title: "Blogs"
 email: kaustubhgupta1828@gmail.com
 timezone: "Asia/Kolkata" 
-baseurl: ""
+baseurl: "/blog"
 permalink: ":year/:month/:day/:title/"
-logo: 'blog/assets/images/logo.png'
-favicon: 'blog/assets/images/favicon.ico'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
 author: kaustubh
 paginate: 15
 # disqus: 'https-www-kaustubhgupta-me-blog'
@@ -27,7 +27,7 @@ authors:
   kaustubh:
     name: Kaustubh Gupta
     display_name: Kaustubh Gupta
-    avatar: 'blog/assets/images/profile_pic.jpg'
+    avatar: 'assets/images/profile_pic.jpg'
     email: kaustubhgupta1828@gmail.com
     web: https://www.kaustubhgupta.me
     twitter: https://twitter.com/Kaustubh1828
