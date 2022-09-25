@@ -3,7 +3,7 @@
         <h5><span>All Posts</span></h5>
         {% for post in site.posts %}
         <li>
-            <a href="blog/{{ post.url }}">{{ post.title }}</a>
+            <a href="{{ post.url }}">{{ post.title }}</a>
         </li>
         {% endfor %}
     </div>
