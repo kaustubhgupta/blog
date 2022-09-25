@@ -5,7 +5,6 @@ author: kaustubh
 categories: [ explanation, guide]
 image: assets/thumbnails/thermal-throttling.jpg
 comments: true
-url: blog/2019-02-19-thermal-throttling
 ---
 
 So, it’s a common problem that our devices hang while operating.
